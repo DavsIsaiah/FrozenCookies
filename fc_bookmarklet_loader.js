@@ -1,1 +1,1 @@
-javascript:(function(){Game.LoadMod("https://github.erbkaiser.com/FrozenCookies/frozen_cookies.js");}());
+javascript:(function(){Game.LoadMod("https://davsisaiah.github.io/FrozenCookies/frozen_cookies.js");}());
