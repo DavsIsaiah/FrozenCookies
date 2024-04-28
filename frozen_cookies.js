@@ -64,6 +64,7 @@ function loadScript(id) {
     } else {
         var url = script_list[id];
         if (/\.js$/.exec(url)) {
+            console.log("test")
             $.getScript(url, function () {
                 loadScript(id + 1);
             });
